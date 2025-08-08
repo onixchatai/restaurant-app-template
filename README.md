@@ -40,12 +40,6 @@ Popular items include Taco de Pastor, Plato de Camarón, and Burrito de Asada.
 
 ## 🔧 Available Scripts
 
-- `npm start` - Run development server
-- `npm run build` - Build for production
-- `npm test` - Run test suite
-- `npm run deploy` - Deploy to GitHub Pages
-- `npm run eject` - Eject from Create React App
-
 ## 📱 Mobile Features
 
 - Touch-optimized interface
