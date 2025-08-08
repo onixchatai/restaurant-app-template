@@ -17,8 +17,7 @@ A modern React mobile web application for MI COCINA restaurant, featuring authen
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://onixchatai.com/mi-cocina-mobile-app.git",
-cd mi-cocina-mobile-app
+Visit the live application: [https://onixchatai.com/mi-cocina-mobile-app",
 
 ### CustomerMobileApp Component
 Main application component featuring:
