@@ -17,7 +17,92 @@ A modern React mobile web application for MI COCINA restaurant, featuring authen
 
 ## 🚀 Live Demo
 
-Visit the live application: [https://onixchatai.com/mi-cocina-mobile-app",
+Visit the live application: [MI COCINA Mobile App](https://yourusername.github.io/mi-cocina-mobile-app)
+
+## 🛠️ Tech Stack
+
+- **React 18** - Frontend framework
+- **Tailwind CSS** - Utility-first CSS framework
+- **Lucide React** - Modern icon library
+- **GitHub Pages** - Deployment platform
+
+## 📱 Restaurant Information
+
+**MI COCINA**
+- **Location**: Mason & Devonshire (across from Vons)
+- **Hours**: Monday-Friday: 7:00 AM - 12:00 PM
+- **Phone**: (818) 938-3955
+- **Service**: Pickup Only (No Delivery)
+- **Payment**: Cash or Zelle accepted
+
+## 🏗️ Installation & Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/yourusername/mi-cocina-mobile-app.git
+   cd mi-cocina-mobile-app
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start development server**
+   ```bash
+   npm start
+   ```
+   
+4. **Open in browser**
+   Navigate to `http://localhost:3000`
+
+## 🚀 Deployment to GitHub Pages
+
+1. **Update package.json**
+   Replace `yourusername` in the homepage URL with your GitHub username:
+   ```json
+   "homepage": "https://yourusername.github.io/mi-cocina-mobile-app"
+   ```
+
+2. **Install gh-pages**
+   ```bash
+   npm install --save-dev gh-pages
+   ```
+
+3. **Deploy**
+   ```bash
+   npm run deploy
+   ```
+
+4. **Enable GitHub Pages**
+   - Go to your repository settings
+   - Scroll to "Pages" section
+   - Select "Deploy from a branch"
+   - Choose "gh-pages" branch
+   - Click Save
+
+## 📂 Project Structure
+
+```
+mi-cocina-mobile-app/
+├── public/
+│   ├── index.html
+│   ├── manifest.json
+│   └── favicon.ico
+├── src/
+│   ├── components/
+│   │   └── CustomerMobileApp.js
+│   ├── App.js
+│   ├── App.css
+│   ├── index.js
+│   └── index.css
+├── package.json
+├── tailwind.config.js
+├── postcss.config.js
+└── README.md
+```
+
+## 🎯 Key Components
 
 ### CustomerMobileApp Component
 Main application component featuring:
@@ -38,6 +123,12 @@ Main application component featuring:
 Popular items include Taco de Pastor, Plato de Camarón, and Burrito de Asada.
 
 ## 🔧 Available Scripts
+
+- `npm start` - Run development server
+- `npm run build` - Build for production
+- `npm test` - Run test suite
+- `npm run deploy` - Deploy to GitHub Pages
+- `npm run eject` - Eject from Create React App
 
 ## 📱 Mobile Features
 
