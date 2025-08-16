@@ -17,7 +17,7 @@ A modern React mobile web application for MI COCINA restaurant, featuring authen
 
 ## 🚀 Live Demo
 
-Visit the live application: [MI COCINA Mobile App](https://yourusername.github.io/mi-cocina-mobile-app)
+Visit the live application: [MI COCINA Mobile App](https://github.com/onixchatai/mi-cocina-mobile-app)
 
 ## 🛠️ Tech Stack
 
@@ -39,7 +39,7 @@ Visit the live application: [MI COCINA Mobile App](https://yourusername.github.i
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/mi-cocina-mobile-app.git
+   git clone https://github.com/onixchatai/mi-cocina-mobile-app
    cd mi-cocina-mobile-app
    ```
 
@@ -61,7 +61,7 @@ Visit the live application: [MI COCINA Mobile App](https://yourusername.github.i
 1. **Update package.json**
    Replace `yourusername` in the homepage URL with your GitHub username:
    ```json
-   "homepage": "https://yourusername.github.io/mi-cocina-mobile-app"
+   "homepage": "https://github.com/onixchatai/mi-cocina-mobile-app"
    ```
 
 2. **Install gh-pages**
