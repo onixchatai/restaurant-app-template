@@ -419,10 +419,10 @@
     }
 
     // Render popular items for search tab
-    function renderPopularItems() {
+    function renderPopularItems(){
       const popularItems = menuItems.filter(item => item.popular);
       
-      popularItemsContainer.innerHTML = popularItems.map(item => `
+      popularItemsContainer.innerHTML popularItems.map(item =>
         <div class="flex items-center justify-between">
           <div class="flex items-center">
             <span class="text-2xl mr-3">${item.image}</span>
