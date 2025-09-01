@@ -46,7 +46,7 @@ const CustomerMobileApp = () => {
 
   const translations = {
     en: {
-      home: 'restaurant-app-template',
+      home: 'onixchatai.com/restaurant-app-template/',
       search: 'Search',
       orders: 'Orders',
       profile: 'Profile',
@@ -96,7 +96,7 @@ const CustomerMobileApp = () => {
   const t = (key) => translations[language][key] || key;
 
   const businessInfo = {
-    name: "restaurant-app-template",
+    name: "onixchatai.com/restaurant-app-template/",
     slogan: language === 'es' ? "Con Sazón y Alegría" : "With Flavor and Joy",
     rating: 4.9,
     reviews: 287,
