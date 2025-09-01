@@ -19,7 +19,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://github.com/onixchatai/restaurant-app-template.git.",
   "display": "standalone",
   "theme_color": "#ef4444",
   "background_color": "#ffffff",
