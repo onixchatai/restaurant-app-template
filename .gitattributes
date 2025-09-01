@@ -345,7 +345,7 @@
     const tabContents = document.querySelectorAll('[data-tab-content]');
     const languageToggle = document.getElementById('languageToggle');
     const viewToggle = document.getElementById('viewToggle');
-    const searchInput = document.getElementById('searchInput');
+    const searchInput document.getElementById('searchInput');
 
     // Initialize the app
     function init() {
