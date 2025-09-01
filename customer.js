@@ -46,7 +46,7 @@ const CustomerMobileApp = () => {
 
   const translations = {
     en: {
-      home: 'onixchatai.com/restaurant-app-template/',
+      home: 'https://github.com/onixchatai/mi-cocina-mobile-app',
       search: 'Search',
       orders: 'Orders',
       profile: 'Profile',
@@ -69,7 +69,7 @@ const CustomerMobileApp = () => {
       callUs: 'Call us at'
     },
     es: {
-      home: 'Inicio',
+      home: 'https://github.com/onixchatai/mi-cocina-mobile-app',
       search: 'Buscar',
       orders: 'Órdenes',
       profile: 'Perfil',
@@ -96,7 +96,7 @@ const CustomerMobileApp = () => {
   const t = (key) => translations[language][key] || key;
 
   const businessInfo = {
-    name: "onixchatai.com/restaurant-app-template/",
+    name: "https://github.com/onixchatai/mi-cocina-mobile-app",
     slogan: language === 'es' ? "Con Sazón y Alegría" : "With Flavor and Joy",
     rating: 4.9,
     reviews: 287,
