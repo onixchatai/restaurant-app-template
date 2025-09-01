@@ -46,7 +46,7 @@ const CustomerMobileApp = () => {
 
   const translations = {
     en: {
-      home: 'Home',
+      home: 'restaurant-app-template',
       search: 'Search',
       orders: 'Orders',
       profile: 'Profile',
