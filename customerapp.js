@@ -46,7 +46,7 @@ const CustomerMobileApp = () => {
 
   const translations = {
     en: {
-      home: 'restaurant-app-template',
+      home: 'onixchatai.com/restaurant-app-template/',
       search: 'Search',
       orders: 'Orders',
       profile: 'Profile',
