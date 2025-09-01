@@ -1,9 +1,9 @@
 {
-  "name": "onixchatai.com/restaurant-app-template/",
+  "name": "https://github.com/onixchatai/mi-cocina-mobile-app",
   "version": "1.0.0",
   "private": true,
-  "description": "Mobile ordering app for Mi Cocina restaurant",
-  "homepage": "onixchatai.com/restaurant-app-template/",
+  "description": "https://github.com/onixchatai/mi-cocina-mobile-app",
+  "homepage": "https://github.com/onixchatai/mi-cocina-mobile-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
