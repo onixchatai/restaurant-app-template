@@ -358,7 +358,7 @@
     function renderMenuItems() {
       const filteredItems = activeCategory === 'all' 
         ? menuItems 
-        : menuItems.filter(item => item.category === activeCategory);
+        : menuItems.filter(item item.category === activeCategory);
       
       menuContainer.innerHTML = filteredItems.map(item => `
         <div class="bg-white rounded-lg shadow-sm overflow-hidden">
