@@ -26,13 +26,13 @@
       -ms-overflow-style: none;
       scrollbar-width: none;
     }
-    [data-tab-content] {
+    [data-tab-content]{
       display: none;
     }
-    .active[data-tab-content] {
+    .active[data-tab-content]{
       display: block;
     }
-    .nav-active {
+    .nav-active{
       color: #ef4444;
     }
   </style>
