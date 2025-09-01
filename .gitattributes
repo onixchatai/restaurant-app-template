@@ -14,15 +14,15 @@
       margin: 0 auto;
       background-color: #f9fafb;
     }
-    .menu-item-grid {
+    .menu-item-grid{
       display: grid;
       grid-template-columns: repeat(2, minmax(0, 1fr));
       gap: 1rem;
     }
-    .no-scrollbar::-webkit-scrollbar {
+    .no-scrollbar::-webkit-scrollbar{
       display: none;
     }
-    .no-scrollbar {
+    .no-scrollbar{
       -ms-overflow-style: none;
       scrollbar-width: none;
     }
