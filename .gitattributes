@@ -323,28 +323,28 @@
     let language = 'en';
 
     // DOM Elements
-    const menuContainer = document.getElementById('menuContainer');
-    const popularItemsContainer = document.getElementById('popularItems');
-    const cartItemsContainer = document.getElementById('cartItemsContainer');
-    const cartOverlay = document.getElementById('cartOverlay');
-    const cartButton = document.getElementById('cartButton');
-    const closeCart = document.getElementById('closeCart');
-    const cartBadge = document.getElementById('cartBadge');
-    const cartItemCount = document.getElementById('cartItemCount');
-    const cartSubtotal = document.getElementById('cartSubtotal');
-    const cartTax = document.getElementById('cartTax');
-    const cartTotal = document.getElementById('cartTotal');
-    const checkoutButton = document.getElementById('checkoutButton');
-    const orderConfirmation = document.getElementById('orderConfirmation');
-    const closeConfirmation = document.getElementById('closeConfirmation');
-    const orderNumber = document.getElementById('orderNumber');
-    const estimatedReadyTime = document.getElementById('estimatedReadyTime');
-    const orderTotalAmount = document.getElementById('orderTotalAmount');
-    const categoryButtons = document.querySelectorAll('[data-category]');
-    const tabButtons = document.querySelectorAll('[data-tab]');
-    const tabContents = document.querySelectorAll('[data-tab-content]');
-    const languageToggle = document.getElementById('languageToggle');
-    const viewToggle = document.getElementById('viewToggle');
+    const menuContainer document.getElementById('menuContainer');
+    const popularItemsContainer document.getElementById('popularItems');
+    const cartItemsContainer document.getElementById('cartItemsContainer');
+    const cartOverlay document.getElementById('cartOverlay');
+    const cartButton document.getElementById('cartButton');
+    const closeCart document.getElementById('closeCart');
+    const cartBadge document.getElementById('cartBadge');
+    const cartItemCount document.getElementById('cartItemCount');
+    const cartSubtotal document.getElementById('cartSubtotal');
+    const cartTax document.getElementById('cartTax');
+    const cartTotal document.getElementById('cartTotal');
+    const checkoutButton document.getElementById('checkoutButton');
+    const orderConfirmation document.getElementById('orderConfirmation');
+    const closeConfirmation document.getElementById('closeConfirmation');
+    const orderNumber document.getElementById('orderNumber');
+    const estimatedReadyTime document.getElementById('estimatedReadyTime');
+    const orderTotalAmount document.getElementById('orderTotalAmount');
+    const categoryButtons document.querySelectorAll('[data-category]');
+    const tabButtons document.querySelectorAll('[data-tab]');
+    const tabContents document.querySelectorAll('[data-tab-content]');
+    const languageToggle document.getElementById('languageToggle');
+    const viewToggle document.getElementById('viewToggle');
     const searchInput document.getElementById('searchInput');
 
     // Initialize the app
