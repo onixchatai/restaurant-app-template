@@ -46,7 +46,7 @@
           <h1 class="text-xl font-bold text-gray-900">Mary's Tacos</h1>
           <div class="flex items-center text-sm text-gray-600 mt-1">
             <i data-lucide="map-pin" class="w-3 h-3 mr-1"></i>
-            <span class="mr-3">Mason & Devonshire (across from Vons)</span>
+            <span class="mr-3">Mason & Devonshire (Across from Vons)</span>
             <i data-lucide="clock" class="w-3 h-3 mr-1"></i>
             <span>Mon-Fri: 7:00 AM - 12:00 PM</span>
           </div>
